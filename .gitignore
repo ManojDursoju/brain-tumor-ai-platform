@@ -8,6 +8,7 @@ venv/
 
 # Model Files
 *.pth
+!models/best_model.pth
 *.pt
 
 # Environment Variables
