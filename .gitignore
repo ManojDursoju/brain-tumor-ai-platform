@@ -22,3 +22,16 @@ venv/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Generated Outputs
+outputs/gradcam/*.png
+outputs/reports/brain_tumor_report_*.pdf
+
+# Logs
+*.log
+
+# Database
+brain_tumor.db
+
+# Generated reports
+outputs/
