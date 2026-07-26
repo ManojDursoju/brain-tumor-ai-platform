@@ -1,0 +1,5 @@
+Class,Training Images,Testing Images,Total
+glioma,1400,400,1800
+meningioma,1400,400,1800
+notumor,1400,400,1800
+pituitary,1400,400,1800
