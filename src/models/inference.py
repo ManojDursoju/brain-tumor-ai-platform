@@ -34,7 +34,7 @@ def load_model():
         len(CLASS_NAMES)
     )
 
-    model_path = Path("models/best_efficientnet_b0.pth")
+    model_path = Path("models/best_model.pth")
 
     model.load_state_dict(
         torch.load(
